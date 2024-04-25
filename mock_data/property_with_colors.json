@@ -1,0 +1,912 @@
+[
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8590,
+		"coordinates_longitude": 4.3510,
+		"address": "10 Rue des Bouchers, 1000 Bruxelles",
+		"description": "Magnifique appartement rénové au cœur de Bruxelles. Proche des transports en commun et des commodités.",
+		"surface_area": 90,
+		"price": 1800,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 6,
+		"floor": 4,
+		"availability_date": "01/07/2024",
+		"exposition": "east",
+		"construction_year": 1975,
+		"condition": "RENOVATED",
+		"dpe": "C",
+		"color": [255, 255, 0],
+		"percent": "30",
+		"terrace": {
+			"exists": true,
+			"surface": "12"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": true
+		},
+		"matching": {
+			"score": 30,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8450,
+		"coordinates_longitude": 4.3450,
+		"address": "20 Rue du Marché aux Herbes, 1000 Bruxelles",
+		"description": "Belle maison de caractère avec jardin dans le centre historique de Bruxelles. Idéal pour une famille.",
+		"surface_area": 180,
+		"price": 950000,
+		"bedroom_count": 4,
+		"bathroom_count": 2,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/09/2024",
+		"exposition": "south",
+		"construction_year": 1920,
+		"condition": "GOOD",
+		"dpe": "D",
+		"color": [255, 255, 0],
+		"percent": "75",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": true,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 75,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8400,
+		"coordinates_longitude": 4.3400,
+		"address": "15 Rue de la Loi, 1000 Bruxelles",
+		"description": "Appartement moderne avec vue imprenable sur la ville. À proximité des institutions européennes.",
+		"surface_area": 70,
+		"price": 1500,
+		"bedroom_count": 1,
+		"bathroom_count": 1,
+		"floor_count": 10,
+		"floor": 6,
+		"availability_date": "01/08/2024",
+		"exposition": "west",
+		"construction_year": 2005,
+		"condition": "RENOVATED",
+		"dpe": "B",
+		"color": [255, 0, 0],
+		"percent": "17",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 17,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8475,
+		"coordinates_longitude": 4.3475,
+		"address": "30 Rue Royale, 1000 Bruxelles",
+		"description": "Superbe maison de maître rénovée avec goût. Jardin arboré et garage intégré.",
+		"surface_area": 250,
+		"price": 1800000,
+		"bedroom_count": 5,
+		"bathroom_count": 3,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/10/2024",
+		"exposition": "north",
+		"construction_year": 1930,
+		"condition": "RENOVATED",
+		"dpe": "E",
+		"color": [0, 255, 0],
+		"percent": "98",
+		"terrace": {
+			"exists": true,
+			"surface": "30"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 98,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8525,
+		"coordinates_longitude": 4.3525,
+		"address": "25 Avenue Louise, 1000 Bruxelles",
+		"description": "Appartement de standing avec vue panoramique sur la ville. Résidence sécurisée avec concierge.",
+		"surface_area": 120,
+		"price": 2500,
+		"bedroom_count": 3,
+		"bathroom_count": 2,
+		"floor_count": 15,
+		"floor": 10,
+		"availability_date": "01/09/2024",
+		"exposition": "south",
+		"construction_year": 2010,
+		"condition": "EXCELLENT",
+		"dpe": "A",
+		"color": [255, 255, 0],
+		"percent": "60",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": true
+		},
+		"matching": {
+			"score": 60,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8425,
+		"coordinates_longitude": 4.3400,
+		"address": "40 Place du Grand Sablon, 1000 Bruxelles",
+		"description": "Splendide maison de ville rénovée avec goût. Emplacement recherché près des galeries d'art.",
+		"surface_area": 300,
+		"price": 2200000,
+		"bedroom_count": 6,
+		"bathroom_count": 4,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/11/2024",
+		"exposition": "east",
+		"construction_year": 1940,
+		"condition": "RENOVATED",
+		"dpe": "C",
+		"color": [0, 255, 0],
+		"percent": "100",
+		"terrace": {
+			"exists": true,
+			"surface": "25"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": true,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 100,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8450,
+		"coordinates_longitude": 4.3475,
+		"address": "35 Rue Neuve, 1000 Bruxelles",
+		"description": "Appartement lumineux et spacieux au cœur du quartier commerçant. À deux pas des transports en commun.",
+		"surface_area": 85,
+		"price": 1700,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 8,
+		"floor": 5,
+		"availability_date": "01/10/2024",
+		"exposition": "west",
+		"construction_year": 1985,
+		"condition": "GOOD",
+		"dpe": "D",
+		"color": [255, 255, 0],
+		"percent": "70",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 70,
+			"status": "LIKED"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8425,
+		"coordinates_longitude": 4.3425,
+		"address": "50 Avenue de la Toison d'Or, 1000 Bruxelles",
+		"description": "Élégante maison de ville avec jardin privé. Emplacement prestigieux à proximité des boutiques de luxe.",
+		"surface_area": 280,
+		"price": 2000000,
+		"bedroom_count": 4,
+		"bathroom_count": 3,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/12/2024",
+		"exposition": "north",
+		"construction_year": 1955,
+		"condition": "RENOVATED",
+		"dpe": "E",
+		"color": [0, 255, 0],
+		"percent": "90",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 90,
+			"status": "SUPER_LIKED"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8580,
+		"coordinates_longitude": 4.3330,
+		"address": "55 Chaussée de Waterloo, 1000 Bruxelles",
+		"description": "Appartement contemporain avec vue sur le parc. Résidence calme et sécurisée.",
+		"surface_area": 100,
+		"price": 2000,
+		"bedroom_count": 3,
+		"bathroom_count": 2,
+		"floor_count": 12,
+		"floor": 8,
+		"availability_date": "01/11/2024",
+		"exposition": "south",
+		"construction_year": 2000,
+		"condition": "EXCELLENT",
+		"dpe": "A",
+		"color": [255, 0, 0],
+		"percent": "15",
+		"terrace": {
+			"exists": true,
+			"surface": "10"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": true
+		},
+		"matching": {
+			"score": 15,
+			"status": "DISLIKED"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8450,
+		"coordinates_longitude": 4.3550,
+		"address": "60 Avenue Louise, 1000 Bruxelles",
+		"description": "Majestueuse maison de ville avec cour intérieure. Architecture préservée et intérieurs modernes.",
+		"surface_area": 350,
+		"price": 2500000,
+		"bedroom_count": 5,
+		"bathroom_count": 4,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/12/2024",
+		"exposition": "east",
+		"construction_year": 1935,
+		"condition": "RENOVATED",
+		"dpe": "D",
+		"color": [255, 255, 0],
+		"percent": "70",
+		"terrace": {
+			"exists": true,
+			"surface": "30"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": true,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 70,
+			"status": "LIKED"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8570,
+		"coordinates_longitude": 4.3340,
+		"address": "65 Rue du Marché aux Poulets, 1000 Bruxelles",
+		"description": "Bel appartement lumineux à proximité des principaux sites touristiques. Idéal pour un séjour touristique.",
+		"surface_area": 80,
+		"price": 1600,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 5,
+		"floor": 3,
+		"availability_date": "01/07/2024",
+		"exposition": "west",
+		"construction_year": 1990,
+		"condition": "RENOVATED",
+		"dpe": "D",
+		"color": [0, 255, 0],
+		"percent": "80",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 80,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8490,
+		"coordinates_longitude": 4.3500,
+		"address": "70 Boulevard Anspach, 1000 Bruxelles",
+		"description": "Charmante maison de ville avec jardin intérieur. Située dans le quartier historique de Bruxelles.",
+		"surface_area": 200,
+		"price": 1200000,
+		"bedroom_count": 4,
+		"bathroom_count": 2,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/09/2024",
+		"exposition": "east",
+		"construction_year": 1935,
+		"condition": "GOOD",
+		"dpe": "C",
+		"color": [255, 255, 0],
+		"percent": "40",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 40,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8560,
+		"coordinates_longitude": 4.3550,
+		"address": "75 Rue Neuve, 1000 Bruxelles",
+		"description": "Appartement moderne et confortable à deux pas des commerces et restaurants. Quartier dynamique.",
+		"surface_area": 60,
+		"price": 1400,
+		"bedroom_count": 1,
+		"bathroom_count": 1,
+		"floor_count": 8,
+		"floor": 5,
+		"availability_date": "01/08/2024",
+		"exposition": "south",
+		"construction_year": 2008,
+		"condition": "RENOVATED",
+		"dpe": "B",
+		"color": [255, 255, 0],
+		"percent": "50",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 50,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8480,
+		"coordinates_longitude": 4.3510,
+		"address": "80 Avenue de Stalingrad, 1000 Bruxelles",
+		"description": "Superbe maison de ville rénovée avec goût. Ambiance chaleureuse et matériaux de qualité.",
+		"surface_area": 180,
+		"price": 1000000,
+		"bedroom_count": 3,
+		"bathroom_count": 2,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/10/2024",
+		"exposition": "north",
+		"construction_year": 1948,
+		"condition": "RENOVATED",
+		"dpe": "E",
+		"color": [0, 255, 0],
+		"percent": "100",
+		"terrace": {
+			"exists": true,
+			"surface": "10"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": true
+		},
+		"matching": {
+			"score": 100,
+			"status": "SUPER_LIKED"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8525,
+		"coordinates_longitude": 4.3475,
+		"address": "85 Avenue Louise, 1000 Bruxelles",
+		"description": "Appartement élégant et spacieux avec vue sur les jardins botaniques. Résidence de standing.",
+		"surface_area": 100,
+		"price": 1800,
+		"bedroom_count": 2,
+		"bathroom_count": 2,
+		"floor_count": 12,
+		"floor": 8,
+		"availability_date": "01/09/2024",
+		"exposition": "west",
+		"construction_year": 2005,
+		"condition": "EXCELLENT",
+		"dpe": "A",
+		"color": [0, 255, 0],
+		"percent": "100",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 100,
+			"status": "DISLIKED"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8470,
+		"coordinates_longitude": 4.3520,
+		"address": "90 Rue des Béguines, 1000 Bruxelles",
+		"description": "Maison de caractère avec jardin et terrasse. Située dans un quartier prisé du centre-ville.",
+		"surface_area": 250,
+		"price": 1400000,
+		"bedroom_count": 4,
+		"bathroom_count": 3,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/11/2024",
+		"exposition": "south",
+		"construction_year": 1955,
+		"condition": "RENOVATED",
+		"dpe": "D",
+		"color": [0, 255, 0],
+		"percent": "100",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 100,
+			"status": "LIKED"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8550,
+		"coordinates_longitude": 4.3450,
+		"address": "125 Rue des Fripiers, 1000 Bruxelles",
+		"description": "Appartement rénové avec soin dans un quartier animé de Bruxelles. Proche des restaurants et des boutiques.",
+		"surface_area": 75,
+		"price": 1600,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 6,
+		"floor": 4,
+		"availability_date": "01/07/2024",
+		"exposition": "east",
+		"construction_year": 1988,
+		"condition": "RENOVATED",
+		"dpe": "C",
+		"color": [255, 0, 0],
+		"percent": "1",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 1,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8460,
+		"coordinates_longitude": 4.3530,
+		"address": "130 Rue du Midi, 1000 Bruxelles",
+		"description": "Jolie maison de ville avec jardin dans le quartier historique de Bruxelles. Charme et caractère.",
+		"surface_area": 210,
+		"price": 1150000,
+		"bedroom_count": 3,
+		"bathroom_count": 2,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/09/2024",
+		"exposition": "south",
+		"construction_year": 1925,
+		"condition": "GOOD",
+		"dpe": "D",
+		"color": [255, 255, 0],
+		"percent": "30",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 30,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8550,
+		"coordinates_longitude": 4.3560,
+		"address": "135 Rue des Sablons, 1000 Bruxelles",
+		"description": "Appartement lumineux et moderne dans le quartier chic des Sablons. Proche des galeries d'art.",
+		"surface_area": 90,
+		"price": 1700,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 8,
+		"floor": 5,
+		"availability_date": "01/08/2024",
+		"exposition": "south",
+		"construction_year": 2005,
+		"condition": "RENOVATED",
+		"dpe": "B",
+		"color": [255, 0, 0],
+		"percent": "0",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 0,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8450,
+		"coordinates_longitude": 4.3540,
+		"address": "140 Boulevard Pachéco, 1000 Bruxelles",
+		"description": "Belle maison de ville rénovée avec jardin en plein centre de Bruxelles. Ambiance familiale.",
+		"surface_area": 190,
+		"price": 980000,
+		"bedroom_count": 4,
+		"bathroom_count": 2,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/10/2024",
+		"exposition": "north",
+		"construction_year": 1938,
+		"condition": "RENOVATED",
+		"dpe": "E",
+		"color": [255, 0, 0],
+		"percent": "10",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 10,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8560,
+		"coordinates_longitude": 4.3580,
+		"address": "145 Avenue Louise, 1000 Bruxelles",
+		"description": "Appartement spacieux et lumineux avec vue sur l'avenue Louise. Résidence sécurisée.",
+		"surface_area": 110,
+		"price": 1900,
+		"bedroom_count": 3,
+		"bathroom_count": 2,
+		"floor_count": 15,
+		"floor": 10,
+		"availability_date": "01/09/2024",
+		"exposition": "west",
+		"construction_year": 2012,
+		"condition": "EXCELLENT",
+		"dpe": "A",
+		"color": [255, 255, 0],
+		"percent": "50",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 50,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8440,
+		"coordinates_longitude": 4.3550,
+		"address": "150 Rue Neuve, 1000 Bruxelles",
+		"description": "Maison de ville élégante avec jardin et terrasse. Quartier animé et recherché.",
+		"surface_area": 240,
+		"price": 1050000,
+		"bedroom_count": 5,
+		"bathroom_count": 3,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/11/2024",
+		"exposition": "south",
+		"construction_year": 1945,
+		"condition": "RENOVATED",
+		"dpe": "C",
+		"color": [255, 255, 0],
+		"percent": "45",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 45,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8570,
+		"coordinates_longitude": 4.3517,
+		"address": "155 Rue des Halles, 1000 Bruxelles",
+		"description": "Appartement rénové avec vue sur le marché des Halles. Quartier animé et dynamique.",
+		"surface_area": 80,
+		"price": 1650,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 6,
+		"floor": 4,
+		"availability_date": "01/08/2024",
+		"exposition": "east",
+		"construction_year": 1992,
+		"condition": "RENOVATED",
+		"dpe": "C",
+		"color": [255, 255, 0],
+		"percent": "70",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 70,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8430,
+		"coordinates_longitude": 4.3580,
+		"address": "160 Rue du Luxembourg, 1000 Bruxelles",
+		"description": "Charmante maison de ville avec jardin en plein cœur de Bruxelles. Ambiance cosy et chaleureuse.",
+		"surface_area": 200,
+		"price": 1120000,
+		"bedroom_count": 4,
+		"bathroom_count": 2,
+		"floor_count": 3,
+		"floor": 2,
+		"availability_date": "01/10/2024",
+		"exposition": "north",
+		"construction_year": 1942,
+		"condition": "RENOVATED",
+		"dpe": "E",
+		"color": [255, 255, 0],
+		"percent": "20",
+		"terrace": {
+			"exists": true,
+			"surface": "15"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 20,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "Appartement - Bruxelles",
+		"type": "FOR_RENT",
+		"subtype": "APARTMENT",
+		"coordinates_latitude": 50.8503,
+		"coordinates_longitude": 4.3517,
+		"address": "165 Avenue de la Toison d'Or, 1000 Bruxelles",
+		"description": "Appartement moderne et confortable dans le quartier branché de la Toison d'Or. Vue dégagée.",
+		"surface_area": 95,
+		"price": 1750,
+		"bedroom_count": 2,
+		"bathroom_count": 1,
+		"floor_count": 8,
+		"floor": 5,
+		"availability_date": "01/09/2024",
+		"exposition": "south",
+		"construction_year": 2008,
+		"condition": "RENOVATED",
+		"dpe": "B",
+		"color": [255, 255, 0],
+		"percent": "40",
+		"terrace": {
+			"exists": false,
+			"surface": "0"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": false,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 40,
+			"status": "TO_SUGGEST"
+		}
+	},
+	{
+		"title": "House - Bruxelles",
+		"type": "FOR_SALE",
+		"subtype": "HOUSE",
+		"coordinates_latitude": 50.8420,
+		"coordinates_longitude": 4.3590,
+		"address": "170 Rue du Marché aux Herbes, 1000 Bruxelles",
+		"description": "Belle maison de ville avec jardin en plein centre de Bruxelles. Atmosphère paisible et verdoyante.",
+		"surface_area": 230,
+		"price": 1180000,
+		"bedroom_count": 5,
+		"bathroom_count": 3,
+		"floor_count": 4,
+		"floor": 3,
+		"availability_date": "01/11/2024",
+		"exposition": "south",
+		"construction_year": 1947,
+		"condition": "RENOVATED",
+		"dpe": "D",
+		"color": [255, 255, 0],
+		"percent": "50",
+		"terrace": {
+			"exists": true,
+			"surface": "20"
+		},
+		"wellnessEquipment": {
+			"hasSwimmingPool": false,
+			"hasJacuzzi": true,
+			"hasSauna": false
+		},
+		"matching": {
+			"score": 50,
+			"status": "TO_SUGGEST"
+		}
+	}
+]
